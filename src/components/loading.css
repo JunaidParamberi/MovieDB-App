@@ -1,0 +1,14 @@
+.loading-container{
+    border-radius: 12px;
+    background: var(--Grey-900, #121829);
+    backdrop-filter: blur(40px);
+    width: 210px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    gap: 30px;
+ }
+
+ .loading-container img{
+    width: 230px;
+ }
